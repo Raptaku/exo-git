@@ -1,3 +1,7 @@
+def coucouDebutProgramme():
+	print("Ceci est le debut du programme")
+
+coucouDebutProgramme()
 nombre = int(input("Veuillez saisir un nombre = "))
 
 if(nombre % 2 == 0):
